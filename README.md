@@ -8,10 +8,10 @@ User can give the input and get the out put for that particular Algorithms
 </br>
 Step 1: Create a User Interface
 </br>
-Step 2: Take User Input to Apply for sorting
+Step 2: Take User Input for sorting technique they want to apply.
 </br>
 Step 3:Take User Input 
-In your UI, take user input for the unsorted data and the sorting technique they want to apply.
+In your UI, take user input for the unsorted data.
 </br>
 Step 4: Apply Chosen Sorting Algorithm
 Based on the user's choice, call the corresponding sorting algorithm function to sort the input data.
