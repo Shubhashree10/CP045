@@ -19,3 +19,4 @@ Based on the user's choice, call the corresponding sorting algorithm function to
 </br>
 **Step 5**: Display Sorted Output
 Display the sorted output to the user.
+![Screenshot (67)](https://github.com/Shubhashree10/CP045/assets/121309653/3e07c2ba-1c55-48e5-a4ee-c262603817ff)
